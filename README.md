@@ -35,7 +35,7 @@ A RESTful API for managing tasks and task lists, built with Spring Boot. This ap
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Pinchez25/spring-boot-tasks-api.git
    cd tasks
    ```
 
